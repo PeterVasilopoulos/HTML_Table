@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#data {
+
+}
+
+head {
+    background-color: rgb(61, 61, 61);
+}
+
+th {
+    color: rgb(79, 54, 54);
+}
+
+th:hover, td:hover {
+    background-color: orange;
+}
